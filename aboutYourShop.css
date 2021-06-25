@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400&display=swap');
+
+.aboutYourShop{
+    text-align: center;
+    color: white;
+    background-color: #0F1D34;
+    font-family: 'Roboto', sans-serif;
+    width: 100%;
+    padding:10% 50%;
+}
+.aboutYourShopTitle{
+font-size: 300% ;
+font-style: inherit;
+}
+.aboutYourShopDescription{
+font-size: 90%;
+}
